@@ -1,0 +1,85 @@
+.zag{
+    width: 1024px;
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 200px;
+}
+.menu{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
+.butt{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}
+.Resume{
+    background-color: lightskyblue;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    border: solid;
+    border-color: black;
+    border-radius: 1rem;
+    font-size: 30px;
+}
+.Projects{
+    background-color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: black;
+    border-color: black;
+    border: solid;
+    border-radius: 1rem;
+    font-size: 30px;
+}
+.stud{
+    padding: 5px;
+    border: solid;
+    color: white;
+    background-color: lightskyblue;
+    border-radius: 1rem;
+    
+}
+.osn{
+    font-size: 30px;
+    font-weight: bolder;
+    color: lightskyblue;
+}
+.nice{
+    color: grey;
+    font-size: 30px;
+}
+.lets{
+    font-size: 50px;
+    color: lightskyblue;
+}
+.maine{
+    width: 1024px;
+    display: flex;
+    justify-content: space-between;
+}
+.ph{
+    margin-top: -100px;
+}
+.about{
+    background-color: rgb(168, 168, 168);
+    width: 1024px;
+    text-align: center;
+}
+.about1{
+    font-size: 50px;
+    color: palevioletred;
+}
+.Dima{
+    font-size: 25px;
+}
+.inf{
+    font-size: 20px;
+}
