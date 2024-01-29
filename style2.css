@@ -1,0 +1,64 @@
+.zag{
+    width: 1024px;
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 200px;
+    padding-left: 40px;
+}
+.osn{
+    font-size: 30px;
+    font-weight: bolder;
+    color: lightskyblue;
+}
+.menu{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
+main{
+    background-color: #C4E0F9;
+    width: 1024px;
+    margin-top: -100px;
+}
+.zag1{
+    font-size: 50px;
+    text-align: center;
+}
+.zag2{
+    font-size: 35px;
+}
+.op{
+    font-size: 10px;
+}
+.buttom{
+    text-align: center;
+    border: solid;
+    border-radius: 1rem;
+    color: white;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.project{
+    background-color: white;
+    padding-left: 30px;
+    border: solid;
+    margin-bottom: 40px;
+    border-radius: 1rem;
+    margin-left: 147px;
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+    margin-top: -40px;
+    padding-top: 50px;
+    text-align: center;
+    color: #2EC0F9;
+    width: 1024px;
+    background-color: #C4E0F9;
+    margin-bottom: 30px;
+}
